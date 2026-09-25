@@ -216,9 +216,9 @@ These are areas for policy consideration rather than recommendations derived sol
 
 Data Analyst / Python Data Analysis Project
 
-GitHub: `https://github.com/YOUR_USERNAME`
+GitHub: `https://github.com/brahmaiahchereddy1049-arch/`
 
-LinkedIn: `https://www.linkedin.com/in/YOUR_USERNAME/`
+LinkedIn: `https://www.linkedin.com/in/brahmaiah-chereddy-5b0050346/`
 
 ## License
 
