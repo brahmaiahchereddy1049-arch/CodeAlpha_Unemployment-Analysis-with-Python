@@ -1,0 +1,37 @@
+UNEMPLOYMENT ANALYSIS SUMMARY
+============================================================
+Rows analyzed: 740
+Regions: 28
+Date range: 2019-05-31 to 2020-06-30
+
+COVID PERIOD COMPARISON
+------------------------------------------------------------
+Pre-COVID reference average: 9.51%
+COVID-period average: 17.77%
+Difference (COVID - pre-COVID): +8.26 percentage points
+
+MONTHLY EXTREMES
+------------------------------------------------------------
+Highest average month: 2020-05 (24.88%)
+Lowest average month: 2019-05 (8.87%)
+
+REGIONAL DIFFERENCES
+------------------------------------------------------------
+Highest average region in this dataset: Tripura (28.35%)
+Lowest average region in this dataset: Meghalaya (4.80%)
+
+MONTHLY PATTERN
+------------------------------------------------------------
+Highest average calendar month: Apr
+Lowest average calendar month: Jul
+
+INTERPRETATION NOTE
+------------------------------------------------------------
+The COVID comparison is descriptive and does not establish causality.
+Regional and monthly differences may reflect many economic and measurement factors.
+
+RURAL / URBAN
+------------------------------------------------------------
+ Area  Average_Unemployment_Rate
+Rural                  10.324791
+Urban                  13.166614
